@@ -2,7 +2,7 @@
 
 ¡Bienvenido a Orgest! Una aplicación de escritorio moderna construida en Python para automatizar la limpieza, organización y optimización de tus archivos multimedia.
 
-![Estado](https://img.shields.io/badge/Estado-Terminado-green)
+![Estado](https://img.shields.io/badge/Estado-En%20Mejoras-orange)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 
 ## 🚀 Características Principales
@@ -20,8 +20,7 @@
 
 Puedes descargar la última versión lista para usar (no requiere instalar Python):
 
-👉 **[Descargar Orgest v2.0 aquí](https://github.com/TU_USUARIO/Orgest/releases)**
-*(Descarga el archivo .zip o .rar de la sección "Assets")*
+👉 **Descargar [Orgest](https://github.com/Lucybell652/OrgestGUI/releases)**
 
 ## 🛠️ Instalación (Para Desarrolladores)
 
@@ -29,7 +28,7 @@ Si deseas modificar el código fuente:
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/Orgest.git](https://github.com/TU_USUARIO/Orgest.git)
+    git clone [https://github.com/Lucybell652/OrgestGUI.git](https://github.com/Lucybell652/OrgestGUI.git)
     cd Orgest
     ```
 
@@ -42,14 +41,6 @@ Si deseas modificar el código fuente:
     ```bash
     python main.py
     ```
-
-## 📦 Cómo crear el ejecutable (.exe)
-
-Este proyecto usa `PyInstaller`. Para compilar tu propia versión:
-
-```bash
-python -m PyInstaller --noconsole --name "Orgest" --icon=icono.ico --collect-all customtkinter main.py
-```
 
 ## 📝 Licencia
 
