@@ -1,0 +1,21 @@
+# Ignorar carpetas de compilación y temporales
+__pycache__/
+*.py[cod]
+dist/
+build/
+*.spec
+
+# Ignorar la carpeta de ffmpeg (se descarga sola)
+ffmpeg/
+
+# Ignorar carpetas generadas por el programa
+basura/
+sin_edit/
+fallos/
+Sin procesar/
+logs/
+
+# Ignorar archivos de sistema y entornos
+.DS_Store
+venv/
+.env
